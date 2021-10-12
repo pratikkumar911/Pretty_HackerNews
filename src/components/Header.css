@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap');
+.header{
+    width: 100%;
+    min-height: 10vh;
+    background-color: #e05b02;
+}
+.logo{
+    color:white;
+    padding:20px;
+    margin-top:15px;
+    font-size: 2rem;
+    text-decoration: none;
+    font-family: 'Oxygen', sans-serif;
+}
